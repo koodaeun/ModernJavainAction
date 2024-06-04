@@ -1,4 +1,4 @@
-package section07.koo;
+package basic.section07.koo;
 
 public class CarMain {
 
