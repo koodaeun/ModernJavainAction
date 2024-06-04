@@ -1,4 +1,4 @@
-package koo.static2.ex;
+package section07.koo;
 
 public class Car {
     private static int num;
