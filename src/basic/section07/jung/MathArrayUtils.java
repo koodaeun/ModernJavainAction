@@ -1,4 +1,4 @@
-package jung.basic.sec7;
+package basic.section07.jung;
 
 public class MathArrayUtils {
     public static int sum(int[] values) {

@@ -1,4 +1,4 @@
-package jung.mid1.sec3;
+package mid.section03.jung;
 
 public class TestString2 {
     public static void main(String[] args) {

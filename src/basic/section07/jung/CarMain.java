@@ -1,4 +1,4 @@
-package jung.basic.sec7;
+package basic.section07.jung;
 
 public class CarMain {
     /*문제1: 구매한 자동차 수

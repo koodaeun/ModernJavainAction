@@ -1,4 +1,4 @@
-package jung.basic.sec9;
+package basic.section09.jung;
 
 public class Album extends Item{
     public String artist;

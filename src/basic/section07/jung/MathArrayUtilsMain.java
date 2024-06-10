@@ -1,4 +1,4 @@
-package jung.basic.sec7;
+package basic.section07.jung;
 
 public class MathArrayUtilsMain {
     /*문제2: 수학 유틸리티 클래스

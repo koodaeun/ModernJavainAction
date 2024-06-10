@@ -1,4 +1,4 @@
-package jung.mid1.sec4;
+package mid.section04.jung;
 
 public class LottoGeneratorMain {
     public static void main(String[] args) {

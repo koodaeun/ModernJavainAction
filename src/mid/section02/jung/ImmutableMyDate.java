@@ -1,4 +1,4 @@
-package jung.mid1.sec2;
+package mid.section02.jung;
 
 public class ImmutableMyDate {
     private final int year;

@@ -1,4 +1,4 @@
-package jung.basic.sec9;
+package basic.section09.jung;
 
 public class Book extends Item{
     private String author;

@@ -1,4 +1,4 @@
-package jung.mid1.sec2;
+package mid.section02.jung;
 
 public class ImmutableMyDateMain {
     public static void main(String[] args) {

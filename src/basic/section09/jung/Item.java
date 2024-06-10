@@ -1,4 +1,4 @@
-package jung.basic.sec9;
+package basic.section09.jung;
 
 public class Item {
     private String name;

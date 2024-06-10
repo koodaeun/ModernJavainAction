@@ -1,4 +1,4 @@
-package jung.mid1.sec1;
+package mid.section01.jung;
 
 import java.sql.SQLOutput;
 import java.util.Objects;

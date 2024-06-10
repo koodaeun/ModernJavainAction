@@ -1,4 +1,4 @@
-package jung.basic.sec9;
+package basic.section09.jung;
 public class ShopMain {
     /*문제: 상속 관계 상품
     쇼핑몰의 판매 상품을 만들어보자.
